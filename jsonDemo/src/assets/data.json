@@ -1,0 +1,19 @@
+{
+    "user": "Name",
+    "projects": [
+        {
+            "name": "My First Project",
+            "description": "Developed in 2023",
+            "progress": 80
+        },
+        {
+            "name": "My Second Project",
+            "description": "Developed in 2024",
+            "progress": 60
+        }
+    ],
+    "Job": [
+        {"workplace": "Chas Academy"},
+        {"workplace": "Qlok"}
+    ]
+}
